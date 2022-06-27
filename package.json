@@ -2,7 +2,7 @@
   "name": "nextjs-fullstack-from-scratch",
   "version": "0.1.0",
   "private": true,
-  "license": "GPL",
+  "license": "GPL-3.0",
   "engines": {
     "node": ">=14.0.0",
     "yarn": ">=1.22.0",
